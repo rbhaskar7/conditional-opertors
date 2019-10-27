@@ -1,0 +1,10 @@
+/* THIS FILE IS ABUT BASICS OF IF ELSE STATEMENTS */
+
+#include<stdio.h>
+
+int main()
+{
+  // write your program here
+  
+  return 0;
+}
